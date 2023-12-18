@@ -26,7 +26,6 @@
 
 ---
 
-#### My GitHub Stats:
 ![ShaneLund's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneLund&show_icons=true&theme=radical)
 
 ---
