@@ -1,6 +1,6 @@
 ### Hello World, I'm ShaneLund 👋
 
-#### Welcome to My Creative and Coding Space!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=3D+Modeler)](https://github.com/ShaneLund)
 
 ---
 
