@@ -12,6 +12,8 @@
 - 🤔 I’m always learning and currently diving deeper into **advanced programming concepts** and **3D animation**.
 - 💬 Feel free to ask me about **3D modeling techniques, game development, and coding challenges**.
 
+---
+
 #### Skills and Tools:
 [![3ds Max](https://img.shields.io/badge/-3ds_Max-black?style=flat-square&logo=autodesk)](https://www.autodesk.com/products/3ds-max/overview)
 [![Maya](https://img.shields.io/badge/-Maya-black?style=flat-square&logo=autodesk)](https://www.autodesk.com/products/maya/overview)
@@ -21,6 +23,8 @@
 [![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
 
 #### My GitHub Stats:
 ![ShaneLund's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneLund&show_icons=true&theme=radical)
