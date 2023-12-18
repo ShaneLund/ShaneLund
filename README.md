@@ -28,5 +28,6 @@
 
 #### My GitHub Stats:
 ![ShaneLund's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneLund&show_icons=true&theme=radical)
-
+[![](https://img.shields.io/github/followers/ShaneLund?style=for-the-badge)](https://github.com/ShaneLund)
+[![](https://komarev.com/ghpvc/?username=ShaneLund&color=blue&style=for-the-badge)](https://github.com/ShaneLund)
 ---
